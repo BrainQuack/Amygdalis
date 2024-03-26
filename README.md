@@ -1,3 +1,3 @@
-# Game_Apartment_Test
+# Amygdalis
 
 Developed with Unreal Engine 5
